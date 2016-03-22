@@ -43,7 +43,7 @@ General Eldar
 ----
 Q: There are no rules in the book for *Agile* and *Void Hardened*. What do these rules mean?
 
-A: 
+A: *Agile* and *Void Hardened* can be found in other books. *Agile* increases the cover save granted by *Jink* by +1 (per https://www.forgeworld.co.uk/resources/fw_site/fw_pdfs/Warhammer_40000/Xiphon_Interceptor.pdf), and *Void Hardened* rules apply in Zone Mortalis missions (see: https://www.forgeworld.co.uk/resources/fw_site/fw_pdfs/Warhammer_40000/Zone_Mortalis_Expansion.pdf) and largely negate the *Cold Void & Poisoned Air* rules present in some scenarios.
 
 Q: The rules for the D-flail are inconsistent. In the Craftworld entry, it reads "A weapon with this special rule rolls on the Destroyer table and subtracts -1 from the result (to a minimum of 1)", while in the Corsair entry and the appendix in the back, it reads "When rolling on the Destroyer Weapons Attack table, this weapon counts all rolls of 6 (Devastating Hit/Deathblow) as a 5 (Solid Hit/Serious Wound) result instead." These are subtly different - which one should be used?
 
@@ -51,7 +51,7 @@ A: The interpretation in the Craftworld section should be used, wherein the resu
 
 Q: As part of the Mymeara Guardian Host and the Pale Courts Battlehost, one of the requirements is a Warlock Council. Is that supposed to say Warlock Conclave?
 
-A: Yes,
+A: Yes.
 
 Craftworld Eldar Units
 ----
