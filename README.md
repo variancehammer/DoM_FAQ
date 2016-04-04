@@ -67,6 +67,9 @@ Q: The utility of the Webway Shunt Generator on the Wraithknight is unclear - Ju
 
 A: No. Apparently this is an error (see [this Reddit thread](https://www.reddit.com/r/Warhammer40k/comments/4412z7/doom_of_mymeara_answers_from_forgeworld/)). The redeploy range should apparently be 18", rather than 12". Also note that this redeployment can be made while the Wraithknight is locked in combat.
 
+Q: The book includes an army list entry for a corsair fire storm tank, but there is no army list entry for a fire storm tank in an eldar army. Is this a deliberate omission or an oversight? Is the fire storm tank only available to a corsair army? or can you take it with an eldar army, with access to eldar vehicle wargear?
+
+A: Forge World has suggested they left the Fire Storm in for compatibility with people who still have that model. I have no reason to believe that the omission from the Craftworld units is anything other than an oversight. My suggestion would be to use the Corsair version, swapping the Corsair wargear for Craftworld wargear. Examples of how to do this are found throughout the book.
 
 Eldar Corsair Units
 ----
@@ -78,7 +81,10 @@ Q: Can Corsair units use *Reckless Abandon* to move after firing in Overwatch?
 
 A: Yes. The rule says nothing about being restricted to the shooting phase, but rather making a shooting attack, which happens during Overwatch. Note that this is in contradiction to the current ITC rules, which were voted on and presumably are more about game balance than any ambiguity that exists.
 
-
 Q: The Corsair Prince is limited to three psychic Mastery Levels, but he can only take one additional level. Is this in error?
 
 A: No. You should assume this limit exists to future-proof against an item that grants levels, an unexpected combination, etc.
+
+Q: On page 158 it says that "A Corsair Prince who is upgraded to a Psyker may select powers from the Divination or Telekinesis Disciplines" Then on page 161 for the Void Dreamer entry it says " An Eldar Corsair Void Dreamer must always select at least one power from the Aethermancy Discipline...and may choose to select additional powers from the Divination or Telekinesis Disciplines." In both these entries it says "select" instead of "generate", are we suppose to infer this means we can individually choose which powers we want from those tables instead of randomly generating or rolling for them?
+
+A: No. Outside of assigned powers, like Bel-Annath, there is very little support in the game at present for being able to pick and choose one's psychic powers. From the main rulebook: "“In some Army List Entries, a Psyker will have one or more specific psychic powers listed – where this is the case, it will be clearly stated. These Psykers always start the game with those psychic powers. Otherwise, a Psyker generates random psychic powers from amongst the psychic disciplines known to him.” Note there isn't an allowance for the type of mechanism being proposed, only assigned powers or random generation. I would suggest that the verb "select" in this case refers to choosing which disciplines to draw from, not the powers within those disciplines. Or, if one is feeling truly pedantic, noting that "random draw" is a form of selection.
