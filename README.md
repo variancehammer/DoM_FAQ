@@ -71,6 +71,12 @@ A: No. Apparently this is an error (see [this Reddit thread](https://www.reddit.
 
 A: Forge World has suggested they left the Fire Storm in for compatibility with people who still have that model. I have no reason to believe that the omission from the Craftworld units is anything other than an oversight. My suggestion would be to use the Corsair version, swapping the Corsair wargear for Craftworld wargear. Examples of how to do this are found throughout the book.
 
+**Q: The shadow spectres holofield wargear has some updated wording which specifies that the cover saves DO stack with stealth and shrouded, but NOT with terrain or fortifications. However, the holofield description for Irillyth still uses the old wording which says that the cover saves do NOT stack with stealth, shrouded, terrain or fortifications. I presume that this is a typo and that in fact Irillyth shares the same updated holofield rules as the shadow spectres.**
+
+Referring back to the older edition of Doom of Mymeara, the "old" wording is in fact for an invulnerable save, not a cover save at all. Both descriptions are thus "new", though it is likely that their contradiction is in error.
+
+That they are a cover save that doesn't benefit from otherwise being in cover, but *does* benefit from Stealth and Shrouded seems like the more permissive of the two choices, and the one that is more like other "X ability gives a Y+ cover save."
+
 Eldar Corsair Units
 ----
 **Q: Should an Eldar Corsair army treat Harlequins as Battle Brothers?**
